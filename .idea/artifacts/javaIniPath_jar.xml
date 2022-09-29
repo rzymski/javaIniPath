@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaIniPath:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaIniPath_jar</output-path>
+    <root id="archive" name="javaIniPath.jar">
+      <element id="module-output" name="javaIniPath" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javaLibraries/ini4j-0.5.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
